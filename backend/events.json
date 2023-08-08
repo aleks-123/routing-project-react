@@ -1,11 +1,1 @@
-{
-  "events": [
-    {
-      "id": "e1",
-      "title": "A dummy event",
-      "date": "2023-02-22",
-      "image": "https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg",
-      "description": "Join this amazing event and connect with fellow developers."
-    }
-  ]
-}
+{"events":[{"title":"asdfasfdasdf","image":"https://cdn-akebd.nitrocdn.com/bCWGvmHIgAlrWzdjLoGQbzvNeZiguKmJ/assets/images/optimized/rev-3e0cd5e/wp-content/uploads/2017/06/Why-Live-Events-Should-Be-At-The-Center-Of-Your-Marketing-Strategy.jpg","date":"2023-08-08","description":" asdfsdfg","id":"89de2148-c079-4441-906c-d99a3cf01ffd"},{"title":" ace","image":"https://spotme.com/wp-content/uploads/2020/07/Hero-1.jpg","date":"2023-08-24","description":" 123123123123","id":"307b7f7d-97db-4c8d-bf25-8a1a25036d60"},{"id":"e1","title":"A dummy event","date":"2023-02-22","image":"https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg","description":"Join this amazing event and connect with fellow developers."}]}
